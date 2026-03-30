@@ -1,0 +1,18 @@
+# ビルド生成物（これらはGit管理しません）
+/resources/_gen
+/resources/images
+
+# Hugo generated output
+public/
+output/
+
+# OSのシステムファイル（Mac/Windowsのゴミファイル）
+.DS_Store
+Thumbs.db
+
+# エディタの一時ファイル（VSCodeなど）
+.vscode/
+*.swp
+
+# テストサーバのロックファイル
+.hugo_build.lock
