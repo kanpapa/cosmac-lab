@@ -107,3 +107,7 @@ showPostImage = false
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
