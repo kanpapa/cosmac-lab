@@ -90,7 +90,8 @@ showPostImage = false
 [[menu.main]]
     name = "Blogs"
 #    url = "https://kanpapa.com/today/category/cosmac/"
-    url = "https://kanpapa.com/cosmac/"
+#    url = "https://kanpapa.com/cosmac/"
+    url = "https://kanpapa.com/tags/cosmac.html"
     weight = 3
 
 [[menu.main]]
